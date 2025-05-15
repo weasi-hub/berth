@@ -28,6 +28,10 @@ Technologies Used:
  - HTML5
  - CSS3 (with custom media queries for responsiveness)
 
+Live Preview:
+
+https://berth-nine.vercel.app/
+
 Getting Started:
 To run this project locally:
 
