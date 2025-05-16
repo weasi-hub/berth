@@ -1,4 +1,4 @@
-# 🌐 Berth – Job Finder Landing Page
+# Berth – Job Finder Landing Page
 
 Berth is a modern, responsive landing page designed for job seekers and companies. It provides a sleek, intuitive interface for exploring job opportunities, uploading resumes, and connecting with employers. This project is built with semantic HTML5 and modular, 
 responsive CSS using the Poppins font family and custom color theming.
