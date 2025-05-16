@@ -1,41 +1,45 @@
-Berth – Job Finder Landing Page
+# 🌐 Berth – Job Finder Landing Page
+
 Berth is a modern, responsive landing page designed for job seekers and companies. It provides a sleek, intuitive interface for exploring job opportunities, uploading resumes, and connecting with employers. This project is built with semantic HTML5 and modular, 
 responsive CSS using the Poppins font family and custom color theming.
 
-Features:
- - Clean and modern UI layout
+## Features:
 
- - Fully responsive across devices (desktop, tablet, mobile)
+- Clean and modern UI layout
 
- - Navigation bar with active link styling
+- Fully responsive across devices (desktop, tablet, mobile)
 
- - Hero section with call-to-action
+- Navigation bar with active link styling
 
- - "Associated with" section for company logos
+- Hero section with call-to-action
 
- - "How it works" steps with icons
+- "Associated with" section for company logos
 
- - Featured jobs section
+- "How it works" steps with icons
 
- - Testimonials and reviews
+- Featured jobs section
 
- - Resume upload CTA
+- Testimonials and reviews
 
- - Footer with navigation and country filter
+- Resume upload CTA
 
-Technologies Used:
+- Footer with navigation and country filter
 
- - HTML5
- - CSS3 (with custom media queries for responsiveness)
+## Technologies Used:
 
-Live Preview:
+- **HTML5**
+- **CSS3** (with custom media queries for responsiveness)
+- Custom CSS variables for theme management
+
+## Live Preview:
 
 https://berth-nine.vercel.app/
 
-Getting Started:
+## Getting Started:
+
 To run this project locally:
 
- - Clone the repository:
- - Open index.html in your browser.
+- Clone the repository,
+- Open index.html in your browser.
 
-No frameworks or build tools needed — just open and go.
+## No frameworks or build tools needed — just open and go.
